@@ -4,6 +4,6 @@
 3. Nela Dwi Anggraini (2109116078)
 4. Ali Khatami (2109116080)
 
-Dataset yang digunakan :
-Supervised : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+Dataset yang digunakan :<br>
+Supervised : https://www.kaggle.com/uciml/pima-indians-diabetes-database<br>
 Unsupervised : https://www.kaggle.com/datasets/datascientistanna/customers-dataset
